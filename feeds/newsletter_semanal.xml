@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/atom">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
 <channel>
 <title>Newsletter - Semanal</title>
 <link>https://example.com/feeds/newsletter</link>
 <description>Newsletter semanal de noticias</description>
 <language>es-es</language>
-<lastBuildDate>2025-11-06T12:32:48.604Z</lastBuildDate>
-<atom:link href="https://example.com/feeds/newsletter" rel="self" type="application/rss+xml" />
+<lastBuildDate>2025-11-06T12:39:39.173Z</lastBuildDate>
 <item>
-<title>&lt;b&gt;Educación&lt;/b&gt; financiera y la IA entran en el currículo escolar inglés</title>
-<link>https://www.google.com/url?rct=j&sa=t&url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&ct=ga&cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6</link>
+<title>Educación financiera y la IA entran en el currículo escolar inglés</title>
+<link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6</link>
 <description>Tutellus, una plataforma blockchain para cambiar el modelo educativo ... La educación financiera y la IA entran en el currículo escolar inglés.</description>
 <pubDate>2025-11-06T04:46:28.000Z</pubDate>
-<content:encoded><![CDATA[Tutellus, una plataforma <b>blockchain</b> para cambiar el modelo educativo ... La <b>educación</b> financiera y la IA entran en el currículo escolar inglés.]]></content:encoded>
+<guid>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6</guid>
 </item>
 <item>
-<title>Anuncian “Foro &lt;b&gt;Blockchain&lt;/b&gt; 2025” en el municipio de Querétaro; será el 14 de noviembre</title>
-<link>https://www.google.com/url?rct=j&sa=t&url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&ct=ga&cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&usg=AOvVaw2pRamLvodBDUnbyuA832tm</link>
+<title>Anuncian “Foro Blockchain 2025” en el municipio de Querétaro; será el 14 de noviembre</title>
+<link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw2pRamLvodBDUnbyuA832tm</link>
 <description>Por su parte, el fundador del Foro Blockchain Querétaro, Jorge Tavares, puntualizó que el foro tiene como propósito fomentar la educación sobre el ...</description>
 <pubDate>2025-11-05T14:59:50.000Z</pubDate>
-<content:encoded><![CDATA[Por su parte, el fundador del Foro <b>Blockchain</b> Querétaro, Jorge Tavares, puntualizó que el foro tiene como propósito fomentar la <b>educación</b> sobre el&nbsp;...]]></content:encoded>
+<guid>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw2pRamLvodBDUnbyuA832tm</guid>
 </item>
 </channel>
 </rss>
