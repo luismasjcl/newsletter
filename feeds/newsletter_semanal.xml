@@ -3,23 +3,23 @@
 <id>tag:google.com,2005:reader/user/newsletter/alerts</id>
 <title>Newsletter - Semanal</title>
 <link href="https://example.com/feeds/newsletter" rel="self"/>
-<updated>2025-11-06T12:07:30.874Z</updated>
+<updated>2025-11-06T12:15:44.254Z</updated>
 <entry>
-<id>tag:google.com,2013:googlealerts/feed:2995841037</id>
-<title type="html">undefined</title>
-<link href="undefined"/>
-<published>undefined</published>
-<updated>undefined</updated>
-<content type="html">undefined</content>
+<id>tag:google.com,2013:googlealerts/feed:352476642952</id>
+<title type="html">Sin título</title>
+<link href=""/>
+<published>2025-11-06T12:15:44.254Z</published>
+<updated>2025-11-06T12:15:44.254Z</updated>
+<content type="html">Sin contenido</content>
 <author><name/></author>
 </entry>
 <entry>
-<id>tag:google.com,2013:googlealerts/feed:7117611564</id>
-<title type="html">undefined</title>
-<link href="undefined"/>
-<published>undefined</published>
-<updated>undefined</updated>
-<content type="html">undefined</content>
+<id>tag:google.com,2013:googlealerts/feed:21116887340689</id>
+<title type="html">Sin título</title>
+<link href=""/>
+<published>2025-11-06T12:15:44.254Z</published>
+<updated>2025-11-06T12:15:44.254Z</updated>
+<content type="html">Sin contenido</content>
 <author><name/></author>
 </entry>
 </feed>
