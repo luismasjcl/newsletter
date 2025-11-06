@@ -1,24 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-<channel>
-<title>Newsletter - Semanal</title>
-<link>https://example.com/feeds/newsletter</link>
-<description>Newsletter semanal de noticias</description>
-<language>es-es</language>
-<lastBuildDate>2025-11-06T12:42:49.831Z</lastBuildDate>
-<item>
-<title>Educación financiera y la IA entran en el currículo escolar inglés</title>
-<link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6</link>
-<description>Tutellus, una plataforma blockchain para cambiar el modelo educativo ... La educación financiera y la IA entran en el currículo escolar inglés.</description>
-<pubDate>2025-11-06T04:46:28.000Z</pubDate>
-<guid>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6</guid>
-</item>
-<item>
-<title>Anuncian “Foro Blockchain 2025” en el municipio de Querétaro; será el 14 de noviembre</title>
-<link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw2pRamLvodBDUnbyuA832tm</link>
-<description>Por su parte, el fundador del Foro Blockchain Querétaro, Jorge Tavares, puntualizó que el foro tiene como propósito fomentar la educación sobre el ...</description>
-<pubDate>2025-11-05T14:59:50.000Z</pubDate>
-<guid>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw2pRamLvodBDUnbyuA832tm</guid>
-</item>
-</channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>tag:google.com,2005:reader/user/exampleid/state/com.google/alerts/examplefeedid</id>
+  <title>Alerta de Google - Blockchain en educación</title>
+  <link href="https://www.google.com/alerts/feeds/exampleid/examplefeedid" rel="self"/>
+  <updated>2025-11-06T12:49:23.763Z</updated>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:7350768097629441936</id>
+    <title type="html"><b>Educación</b> financiera y la IA entran en el currículo escolar inglés</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6"/>
+    <published>2025-11-06T04:46:28.000Z</published>
+    <updated>2025-11-06T04:46:28.000Z</updated>
+    <content type="html">Tutellus, una plataforma <b>blockchain</b> para cambiar el modelo educativo ... La <b>educación</b> financiera y la IA entran en el currículo escolar inglés.</content>
+    <author>
+      <name></name>
+    </author>
+  </entry>
+  <entry>
+    <id>tag:google.com,2013:googlealerts/feed:17777552229557854225</id>
+    <title type="html">Anuncian “Foro <b>Blockchain</b> 2025” en el municipio de Querétaro; será el 14 de noviembre</title>
+    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw2pRamLvodBDUnbyuA832tm"/>
+    <published>2025-11-05T14:59:50.000Z</published>
+    <updated>2025-11-05T14:59:50.000Z</updated>
+    <content type="html">Por su parte, el fundador del Foro <b>Blockchain</b> Querétaro, Jorge Tavares, puntualizó que el foro tiene como propósito fomentar la <b>educación</b> sobre el&nbsp;...</content>
+    <author>
+      <name></name>
+    </author>
+  </entry>
+</feed>
