@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-<title>Newsletter</title>
-<link>https://example.com</link>
-<description>Newsletter Semanal</description>
-<item>
-<title>undefined</title>
-<link>undefined</link>
-<description>undefined</description>
-</item>
-<item>
-<title>undefined</title>
-<link>undefined</link>
-<description>undefined</description>
-</item>
-</channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:idx="urn:atom-extension:indexing">
+<id>tag:google.com,2005:reader/user/newsletter/alerts</id>
+<title>Newsletter - Semanal</title>
+<link href="https://example.com/feeds/newsletter" rel="self"/>
+<updated>2025-11-06T12:07:30.874Z</updated>
+<entry>
+<id>tag:google.com,2013:googlealerts/feed:2995841037</id>
+<title type="html">undefined</title>
+<link href="undefined"/>
+<published>undefined</published>
+<updated>undefined</updated>
+<content type="html">undefined</content>
+<author><name/></author>
+</entry>
+<entry>
+<id>tag:google.com,2013:googlealerts/feed:7117611564</id>
+<title type="html">undefined</title>
+<link href="undefined"/>
+<published>undefined</published>
+<updated>undefined</updated>
+<content type="html">undefined</content>
+<author><name/></author>
+</entry>
+</feed>
