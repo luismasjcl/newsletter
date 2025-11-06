@@ -1,29 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-  <id>tag:luismasjcl,2025:newsletter.semanal</id>
-  <title>Newsletter semanal Blockchain en educación</title>
-  <link href="https://github.com/luismasjcl/newsletter/blob/main/feeds/newsletter_semanal.xml" rel="self"/>
-  <updated>2025-11-06T12:56:32.611Z</updated>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:7350768097629441936</id>
-    <title>Educación financiera y la IA entran en el currículo escolar inglés</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6"/>
-    <published>2025-11-06T04:46:28Z</published>
-    <updated>2025-11-06T04:46:28Z</updated>
-    <content type="html">Tutellus, una plataforma blockchain para cambiar el modelo educativo ... La educación financiera y la IA entran en el currículo escolar inglés.</content>
-    <author>
-      <name></name>
-    </author>
-  </entry>
-  <entry>
-    <id>tag:google.com,2013:googlealerts/feed:17777552229557854225</id>
-    <title>Anuncian “Foro Blockchain 2025” en el municipio de Querétaro; será el 14 de noviembre</title>
-    <link href="https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw2pRamLvodBDUnbyuA832tm"/>
-    <published>2025-11-05T14:59:50Z</published>
-    <updated>2025-11-05T14:59:50Z</updated>
-    <content type="html">Por su parte, el fundador del Foro Blockchain Querétaro, Jorge Tavares, puntualizó que el foro tiene como propósito fomentar la educación sobre el&amp;nbsp;...</content>
-    <author>
-      <name></name>
-    </author>
-  </entry>
-</feed>
+<rss version="2.0">
+  <channel>
+    <title>Newsletter semanal Blockchain en educación</title>
+    <link>https://github.com/luismasjcl/newsletter/blob/main/feeds/newsletter_semanal.xml</link>
+    <description>Selección semanal de noticias sobre blockchain en el ámbito educativo</description>
+    <lastBuildDate>2025-11-06T12:59:21.884Z</lastBuildDate>
+    <language>es-es</language>
+    <item>
+      <title>Educación financiera y la IA entran en el currículo escolar inglés</title>
+      <link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://observatorioblockchain.com/tecnologia/educacion-financiera-y-la-ia-entran-en-el-curriculo-escolar-ingles/&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw1Tsbsh9oa54T4LCZp1ZqE6</link>
+      <description>Tutellus, una plataforma blockchain para cambiar el modelo educativo ... La educación financiera y la IA entran en el currículo escolar inglés.</description>
+      <guid>tag:google.com,2013:googlealerts/feed:7350768097629441936</guid>
+      <pubDate>2025-11-06T04:46:28Z</pubDate>
+    </item>
+    <item>
+      <title>Anuncian “Foro Blockchain 2025” en el municipio de Querétaro; será el 14 de noviembre</title>
+      <link>https://www.google.com/url?rct=j&amp;sa=t&amp;url=https://www.informaoriente.com.mx/politica/anuncian-foro-blockchain-2025-en-el-municipio-de-queretaro-sera-el-14-de-noviembre.htm&amp;ct=ga&amp;cd=CAIyGTE5MzljZWI1YzI0NTBiNmM6ZXM6ZXM6RVM&amp;usg=AOvVaw2pRamLvodBDUnbyuA832tm</link>
+      <description>Por su parte, el fundador del Foro Blockchain Querétaro, Jorge Tavares, puntualizó que el foro tiene como propósito fomentar la educación sobre el&amp;nbsp;...</description>
+      <guid>tag:google.com,2013:googlealerts/feed:17777552229557854225</guid>
+      <pubDate>2025-11-05T14:59:50Z</pubDate>
+    </item>
+  </channel>
+</rss>
